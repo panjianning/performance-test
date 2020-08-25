@@ -19,6 +19,7 @@
 
 ### 有赞
 * [有赞全链路压测实战](https://cloud.tencent.com/developer/article/1510088)
+* [有赞全链路压测引擎的设计与实现](https://zhuanlan.zhihu.com/p/53165467)
 
 ### 其他
 * [稳定性实践：容量规划之压测系统建设](https://zhuanlan.zhihu.com/p/149538568)  
