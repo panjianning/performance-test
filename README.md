@@ -16,6 +16,7 @@
 
 ### 京东
 * [京东全链路压测军演系统(ForceBot)](京东全链路压测军演系统(ForceBot).pdf)
+* [大促系统全流量压测及稳定性保证——京东交易架构分享（含PPT）](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547431&idx=1&sn=744a42639e7c362a05aacbfbed6a988c&scene=21#wechat_redirect)
 
 ### 饿了么
 * [饿了么全链路压测的探索与实践](https://zhuanlan.zhihu.com/p/30306892)
