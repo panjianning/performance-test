@@ -4,6 +4,7 @@
 ---
 
 * [全链路压测的大概思路](https://lishoubo.github.io/2018/07/15/%E5%85%A8%E9%93%BE%E8%B7%AF%E5%8E%8B%E6%B5%8B%E7%9A%84%E5%A4%A7%E6%A6%82%E6%80%9D%E8%B7%AF/)
+![performance_test_arch](performance_test_arch.png)
 
 
 ### 阿里
