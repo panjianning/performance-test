@@ -18,7 +18,7 @@
 * [京东全链路压测军演系统(ForceBot)](京东全链路压测军演系统(ForceBot).pdf)
 
 ### 饿了么
-* [https://zhuanlan.zhihu.com/p/30306892](https://zhuanlan.zhihu.com/p/30306892)
+* [饿了么全链路压测的探索与实践](https://zhuanlan.zhihu.com/p/30306892)
 
 ### 携程
 * [携程全链路测试实践](http://bos.itdks.com/937b3854dd6f4f50ae6120906b180cdb.pdf)
