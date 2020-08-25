@@ -2,6 +2,7 @@
 性能压测相关资料
 
 ### 阿里
+* [全链路压测-大促备战核武器](http://jm.taobao.org/2017/03/30/20170330/)
 * [阿里双十一大促，技术准备只做了这两件事情？](http://jm.taobao.org/2016/12/23/20161223/)
 * [独家揭秘 | 阿里怎么做双11全链路压测？](https://developer.aliyun.com/article/723177) 
 * [阿里巴巴在开源压测工具 JMeter 上的实践和优化](https://mp.weixin.qq.com/s?spm=a2c6h.12873639.0.0.529232b4oIFEr9&__biz=MzU4NzU0MDIzOQ==&mid=2247487005&idx=1&sn=9c8837261ce97f69f019fe909e09e789&chksm=fdeb3c7dca9cb56b6c142d52f08eae5143cfc38bf214c2e716f65202f83ffd9325b845da48dc&scene=21#wechat_redirect)
