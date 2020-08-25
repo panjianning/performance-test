@@ -14,6 +14,12 @@
 ### 滴滴
 * [滴滴全链路压测解决之道](https://blog.csdn.net/g6u8w7p06dco99fq3/article/details/79119269)
 
+### 京东
+* [京东全链路压测军演系统(ForceBot)](京东全链路压测军演系统(ForceBot).pdf)
+
+### 饿了么
+* [https://zhuanlan.zhihu.com/p/30306892](https://zhuanlan.zhihu.com/p/30306892)
+
 ### 携程
 * [携程全链路测试实践](http://bos.itdks.com/937b3854dd6f4f50ae6120906b180cdb.pdf)
 
