@@ -8,6 +8,7 @@
 
 
 ### 阿里
+* [性能测试技术指南](https://help.aliyun.com/document_detail/29337.html?spm=a2c4g.11186623.6.659.e5293319NxlF1V)
 * [史上最复杂业务场景，逼出阿里高可用三大法宝](https://zhuanlan.zhihu.com/p/27211011)
 * [全链路压测-大促备战核武器](http://jm.taobao.org/2017/03/30/20170330/)
 * [阿里双十一大促，技术准备只做了这两件事情？](http://jm.taobao.org/2016/12/23/20161223/)
