@@ -15,6 +15,8 @@
 * [独家揭秘 | 阿里怎么做双11全链路压测？](https://developer.aliyun.com/article/723177) 
 * [阿里巴巴在开源压测工具 JMeter 上的实践和优化](https://mp.weixin.qq.com/s?spm=a2c6h.12873639.0.0.529232b4oIFEr9&__biz=MzU4NzU0MDIzOQ==&mid=2247487005&idx=1&sn=9c8837261ce97f69f019fe909e09e789&chksm=fdeb3c7dca9cb56b6c142d52f08eae5143cfc38bf214c2e716f65202f83ffd9325b845da48dc&scene=21#wechat_redirect)
 * [10年5次进化，双11容量规划如何实现成本与稳定的最佳平衡？](https://juejin.im/entry/6844903713773977614)
+* [阿里巴巴高可用技术专家襄玲：压测环境的设计和搭建](https://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&mid=2247486698&idx=3&sn=c3a2af9322c2bf6ad25d8c4823d1461f&chksm=fdeb3e8aca9cb79c3ff4f0d61eed4db4e7fd72c54e0ef670ad9d4c12caa05000dec80bbd179a&scene=21#wechat_redirect)
+* [你真的了解压测吗？实战讲述性能测试场景设计和实现](https://www.chainnews.com/articles/242101047206.htm)
 
 ### 美团
 * [全链路压测平台（Quake）在美团中的实践](https://tech.meituan.com/2018/09/27/quake-introduction.html)
