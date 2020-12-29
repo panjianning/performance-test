@@ -11,7 +11,7 @@
 * [性能测试技术指南](https://help.aliyun.com/document_detail/29337.html?spm=a2c4g.11186623.6.659.e5293319NxlF1V)
 * [史上最复杂业务场景，逼出阿里高可用三大法宝](https://zhuanlan.zhihu.com/p/27211011)
 * [全链路压测-大促备战核武器](http://jm.taobao.org/2017/03/30/20170330/)
-* [阿里双十一大促，技术准备只做了这两件事情？](https://yq.aliyun.com/articles/73185)
+* [阿里双十一大促，技术准备只做了这两件事情？](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650995093&idx=1&sn=574f6d83a48c2c596943b1fbeb25e4a7&chksm=bdbf01c68ac888d03eadfff1475e782ac8e289ad62bfe5cfe15542105fcdd8f6dfb6e2da7afa&scene=21#wechat_redirect)
 * [独家揭秘 | 阿里怎么做双11全链路压测？](https://developer.aliyun.com/article/723177) 
 * [阿里巴巴在开源压测工具 JMeter 上的实践和优化](https://mp.weixin.qq.com/s?spm=a2c6h.12873639.0.0.529232b4oIFEr9&__biz=MzU4NzU0MDIzOQ==&mid=2247487005&idx=1&sn=9c8837261ce97f69f019fe909e09e789&chksm=fdeb3c7dca9cb56b6c142d52f08eae5143cfc38bf214c2e716f65202f83ffd9325b845da48dc&scene=21#wechat_redirect)
 * [10年5次进化，双11容量规划如何实现成本与稳定的最佳平衡？](https://juejin.im/entry/6844903713773977614)
