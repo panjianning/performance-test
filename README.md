@@ -18,6 +18,9 @@
 * [阿里巴巴高可用技术专家襄玲：压测环境的设计和搭建](https://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&mid=2247486698&idx=3&sn=c3a2af9322c2bf6ad25d8c4823d1461f&chksm=fdeb3e8aca9cb79c3ff4f0d61eed4db4e7fd72c54e0ef670ad9d4c12caa05000dec80bbd179a&scene=21#wechat_redirect)
 * [你真的了解压测吗？实战讲述性能测试场景设计和实现](https://copyfuture.com/blogs-details/202011031831299442syvg6by3995i8n)
 
+### 字节跳动
+* [字节跳动全链路压测(Rhino)的实践](https://mp.weixin.qq.com/s/vofrpFGvnptj3MNAv1hQ-w)
+
 ### 美团
 * [全链路压测平台（Quake）在美团中的实践](https://tech.meituan.com/2018/09/27/quake-introduction.html)
 * [大促活动前团购系统流量预算和容量评估](https://tech.meituan.com/2016/09/28/stress-test-before-promotion.html)
